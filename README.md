@@ -48,8 +48,9 @@ Right now I care about:
 ### GitHub Signals
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=whyfail&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyfail&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/whyfail?style=flat-square&label=Followers&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/whyfail/AI-Toolkit?style=flat-square&label=AI-Toolkit&logo=github" alt="AI-Toolkit stars" />
+  <img src="https://img.shields.io/github/last-commit/whyfail/AI-Toolkit?style=flat-square&label=AI-Toolkit%20last%20commit&logo=github" alt="AI-Toolkit last commit" />
 </p>
 
 ---
