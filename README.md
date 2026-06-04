@@ -1,10 +1,12 @@
 <h1 align="center">Why fail?</h1>
 
 <p align="center">
-  <strong>Because every bug is a breadcrumb.</strong>
+  <strong>因为每一个 bug，都是通往答案的线索。</strong>
 </p>
 
 <p align="center">
+  <a href="./README.en.md">English</a>
+  ·
   <a href="https://github.com/whyfail">
     <img src="https://komarev.com/ghpvc/?username=whyfail&style=flat-square&color=0e75b6" alt="profile views" />
   </a>
@@ -12,32 +14,32 @@
 
 ---
 
-### Hi, I'm 小磊丶同学
+### 你好，我是小磊丶同学
 
-I like turning confusing engineering problems into simple, reusable tools.
+我喜欢把复杂、重复、容易出错的工程问题，整理成简单、可复用的工具。
 
 编程界崇尚以简洁优雅为美。很多时候，如果一个概念显得特别复杂，可能只是我们还没有找到更好的拆解方式。
 
-Right now I care about:
+现在主要关注：
 
-- AI coding workflows, MCP, and developer tooling
-- Frontend engineering with React, Vue, Vite, and TypeScript
-- Rust tools that make repetitive work lighter
-- Clean templates, practical automation, and maintainable project structure
+- AI 编程工作流、MCP、开发者工具
+- React、Vue、Vite、TypeScript 方向的前端工程化
+- 用 Rust 写一些让重复工作变轻的工具
+- 干净的项目模板、实用自动化、可维护的项目结构
 
 ---
 
-### Featured Work
+### 代表项目
 
-| Project | What it is |
+| 项目 | 简介 |
 | --- | --- |
-| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A general AI programming tool manager for MCP server config and Skills sync. |
-| [vite_react_init](https://github.com/whyfail/vite_react_init) | A ready-to-use Vite + React + ESLint + Zustand project template. |
-| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | A ready-to-use Vite + Vue 3 + ESLint + Pinia project template. |
+| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | 通用 AI 编程工具管理器，支持统一管理 MCP 服务配置和 Skills 同步。 |
+| [vite_react_init](https://github.com/whyfail/vite_react_init) | 开箱即用的 Vite + React + ESLint + Zustand 项目模板。 |
+| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 开箱即用的 Vite + Vue 3 + ESLint + Pinia 项目模板。 |
 
 ---
 
-### Toolbox
+### 工具箱
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,rust,nodejs,git,github,vscode&perline=10" alt="toolbox" />
@@ -45,7 +47,7 @@ Right now I care about:
 
 ---
 
-### GitHub Signals
+### GitHub 动态
 
 <p>
   <img src="https://img.shields.io/github/followers/whyfail?style=flat-square&label=Followers&logo=github" alt="GitHub followers" />
@@ -55,8 +57,8 @@ Right now I care about:
 
 ---
 
-### A Small Note
+### 一点小想法
 
-I do not believe good code starts from being clever.
+我不觉得好代码一定从“聪明”开始。
 
-It usually starts from asking better questions, deleting unnecessary branches, and making the next change easier than the last one.
+它更多时候来自更好的问题、更少的分支，以及让下一次修改比这一次更容易。
