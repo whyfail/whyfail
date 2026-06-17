@@ -34,8 +34,8 @@
 | 项目 | 简介 |
 | --- | --- |
 | [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | 通用 AI 编程工具管理器，支持统一管理 MCP 服务配置和 Skills 同步。 |
-| [vite_react_init](https://github.com/whyfail/vite_react_init) | 开箱即用的 Vite + React + ESLint + Zustand 项目模板。 |
-| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 开箱即用的 Vite + Vue 3 + ESLint + Pinia 项目模板。 |
+| [vite_react_init](https://github.com/whyfail/vite_react_init) | 为 AI 协作而生的企业级 React 模板，Vite 8 + React 19 + TypeScript，内置 app/features/shared 分层、shadcn/ui + Tailwind v4、路由守卫与 API 封装。 |
+| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 为 AI 协作而生的企业级 Vue 3 模板，Vite 8 + Vue 3 + TypeScript，内置 app/features/shared 分层、shadcn-vue + Tailwind v4，并以 oxc（oxlint/oxfmt）替代 ESLint。 |
 
 ---
 

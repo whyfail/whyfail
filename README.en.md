@@ -34,8 +34,8 @@ Right now I care about:
 | Project | What it is |
 | --- | --- |
 | [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A general AI programming tool manager for MCP server config and Skills sync. |
-| [vite_react_init](https://github.com/whyfail/vite_react_init) | A ready-to-use Vite + React + ESLint + Zustand project template. |
-| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | A ready-to-use Vite + Vue 3 + ESLint + Pinia project template. |
+| [vite_react_init](https://github.com/whyfail/vite_react_init) | An AI-first enterprise React template: Vite 8 + React 19 + TypeScript, with app/features/shared layering, shadcn/ui + Tailwind v4, route guards and API wrappers. |
+| [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | An AI-first enterprise Vue 3 template: Vite 8 + Vue 3 + TypeScript, with app/features/shared layering, shadcn-vue + Tailwind v4, and oxc (oxlint/oxfmt) in place of ESLint. |
 
 ---
 
