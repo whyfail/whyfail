@@ -36,6 +36,9 @@ Right now I care about:
 | [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A general AI programming tool manager for MCP server config and Skills sync. |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | An AI-first enterprise React template: Vite 8 + React 19 + TypeScript, with app/features/shared layering, shadcn/ui + Tailwind v4, route guards and API wrappers. |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | An AI-first enterprise Vue 3 template: Vite 8 + Vue 3 + TypeScript, with app/features/shared layering, shadcn-vue + Tailwind v4, and oxc (oxlint/oxfmt) in place of ESLint. |
+| [vite_react_ssr_init](https://github.com/whyfail/vite_react_ssr_init) | An AI-first enterprise React SSR template: Next.js App Router + React 19 + Tailwind v4, with HttpOnly Cookie sessions and server-side auth forwarding. |
+| [vite_vue3_ssr_init](https://github.com/whyfail/vite_vue3_ssr_init) | An AI-first enterprise Vue 3 SSR template: Nuxt 4 + Pinia + Tailwind v4, with Nitro server sessions and isomorphic request forwarding. |
+| [springboot-template](https://github.com/whyfail/springboot-template) | An AI-first enterprise Spring Boot backend template: Java 25 + Spring Boot 4 modular monolith with opaque-token sessions, login rate limiting, security audit and Testcontainers quality gates. |
 
 ---
 
