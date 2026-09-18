@@ -36,6 +36,9 @@
 | [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | 通用 AI 编程工具管理器，支持统一管理 MCP 服务配置和 Skills 同步。 |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | 为 AI 协作而生的企业级 React 模板，Vite 8 + React 19 + TypeScript，内置 app/features/shared 分层、shadcn/ui + Tailwind v4、路由守卫与 API 封装。 |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 为 AI 协作而生的企业级 Vue 3 模板，Vite 8 + Vue 3 + TypeScript，内置 app/features/shared 分层、shadcn-vue + Tailwind v4，并以 oxc（oxlint/oxfmt）替代 ESLint。 |
+| [vite_react_ssr_init](https://github.com/whyfail/vite_react_ssr_init) | 为 AI 协作而生的企业级 React SSR 模板，Next.js App Router + React 19 + Tailwind v4，内置 HttpOnly Cookie 会话与服务端鉴权转发。 |
+| [vite_vue3_ssr_init](https://github.com/whyfail/vite_vue3_ssr_init) | 为 AI 协作而生的企业级 Vue 3 SSR 模板，Nuxt 4 + Pinia + Tailwind v4，内置 Nitro 服务端会话与同构请求转发。 |
+| [springboot-template](https://github.com/whyfail/springboot-template) | 为 AI 协作而生的企业级 Spring Boot 后端模板，Java 25 + Spring Boot 4 模块化单体，opaque token 会话、登录限流、安全审计与 Testcontainers 质量门禁。 |
 
 ---
 
