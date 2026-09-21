@@ -33,6 +33,7 @@
 
 | 项目 | 简介 |
 | --- | --- |
+| [cwa-stack](https://github.com/whyfail/cwa-stack) | **全栈工程引擎（npm：cwa-stack）**：一条命令把 React/Vue/Next.js/Nuxt × Spring Boot 五套模板组合成前后端真实联通、契约驱动、开箱即验证的单仓库全栈工程。 |
 | [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | 通用 AI 编程工具管理器，支持统一管理 MCP 服务配置和 Skills 同步。 |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | 为 AI 协作而生的企业级 React 模板，Vite 8 + React 19 + TypeScript，内置 app/features/shared 分层、shadcn/ui + Tailwind v4、路由守卫与 API 封装。 |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 为 AI 协作而生的企业级 Vue 3 模板，Vite 8 + Vue 3 + TypeScript，内置 app/features/shared 分层、shadcn-vue + Tailwind v4，并以 oxc（oxlint/oxfmt）替代 ESLint。 |
