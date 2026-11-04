@@ -29,24 +29,12 @@
 
 ---
 
-### 代表项目
-
-#### [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) · AI 开发者的统一管控台
-
-把分散在不同 AI 编程工具中的 Skills、MCP 服务、平台账号与模型接入集中到一个桌面应用，减少上下文切换，专注高效构建。
-
-- **Skills 与 MCP 集中管理**：自动检测已安装的 AI 工具，统一配置 MCP 服务，安装、更新并批量同步 Skills。
-- **多平台、多账号管理**：集中管理 WorkBuddy、TRAE CN、Qoder 账号，查看各平台额度与模型目录。
-- **平台积分自动领取**：支持手动领取可用积分，也可开启应用运行期间的每日定时领取。
-- **本地模型代理网关**：聚合上述平台的可用模型，通过兼容 OpenAI Chat Completions 与 Anthropic Messages 的统一 API 接入第三方工具。
-
-[项目仓库](https://github.com/whyfail/AI-Toolkit) · [访问官网](https://whyfail.github.io/ai-toolkit-website/) · [下载安装](https://github.com/whyfail/AI-Toolkit/releases/latest)
-
-#### 工程模板与脚手架
+### 开源项目
 
 | 项目 | 简介 |
 | --- | --- |
 | [cwa-stack](https://github.com/whyfail/cwa-stack) | **全栈工程引擎（npm：cwa-stack）**：一条命令把 React/Vue/Next.js/Nuxt × Spring Boot 五套模板组合成前后端真实联通、契约驱动、开箱即验证的单仓库全栈工程。 |
+| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | AI 编程工具桌面管理器：支持通过本地代理将 WorkBuddy 积分模型接入第三方工具，统一管理 MCP 服务与 Skills。 |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | 为 AI 协作而生的企业级 React 模板，Vite 8 + React 19 + TypeScript，内置 app/features/shared 分层、shadcn/ui + Tailwind v4、路由守卫与 API 封装。 |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | 为 AI 协作而生的企业级 Vue 3 模板，Vite 8 + Vue 3 + TypeScript，内置 app/features/shared 分层、shadcn-vue + Tailwind v4，并以 oxc（oxlint/oxfmt）替代 ESLint。 |
 | [vite_react_ssr_init](https://github.com/whyfail/vite_react_ssr_init) | 为 AI 协作而生的企业级 React SSR 模板，Next.js App Router + React 19 + Tailwind v4，内置 HttpOnly Cookie 会话与服务端鉴权转发。 |
