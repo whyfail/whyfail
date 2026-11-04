@@ -34,7 +34,7 @@ Right now I care about:
 | Project | What it is |
 | --- | --- |
 | [cwa-stack](https://github.com/whyfail/cwa-stack) | **The whole-stack engine (npm: cwa-stack)**: one command composes the five templates (React/Vue/Next.js/Nuxt × Spring Boot) into a single-repo, contract-driven full-stack project with real login and end-to-end verification. |
-| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A desktop manager for AI coding tools: use WorkBuddy models with platform credits in third-party tools through a local proxy, alongside MCP configuration and Skills sync. |
+| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A desktop manager for AI coding tools: use models from WorkBuddy, TRAE CN, and Qoder with platform credits in third-party tools through a local proxy, alongside MCP configuration and Skills sync. |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | An AI-first enterprise React template: Vite 8 + React 19 + TypeScript, with app/features/shared layering, shadcn/ui + Tailwind v4, route guards and API wrappers. |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | An AI-first enterprise Vue 3 template: Vite 8 + Vue 3 + TypeScript, with app/features/shared layering, shadcn-vue + Tailwind v4, and oxc (oxlint/oxfmt) in place of ESLint. |
 | [vite_react_ssr_init](https://github.com/whyfail/vite_react_ssr_init) | An AI-first enterprise React SSR template: Next.js App Router + React 19 + Tailwind v4, with HttpOnly Cookie sessions and server-side auth forwarding. |
