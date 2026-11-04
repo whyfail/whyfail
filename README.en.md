@@ -29,24 +29,12 @@ Right now I care about:
 
 ---
 
-### Featured Work
-
-#### [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) · One control center for AI developers
-
-A desktop app that brings Skills, MCP servers, platform accounts, and model access together across AI coding tools, helping you switch contexts less and spend more time building.
-
-- **Skills & MCP management**: detect installed AI tools, configure MCP servers, and install, update, and sync Skills to multiple tools.
-- **Multiple platforms & accounts**: manage WorkBuddy, TRAE CN, and Qoder accounts in one place, with platform balances and model catalogs.
-- **Automatic credit claims**: claim available credits manually, or enable daily scheduled claims while the app is running.
-- **Local model proxy gateway**: access available models from these platforms through a unified API compatible with OpenAI Chat Completions and Anthropic Messages for third-party tools.
-
-[Repository](https://github.com/whyfail/AI-Toolkit) · [Website](https://whyfail.github.io/ai-toolkit-website/) · [Download](https://github.com/whyfail/AI-Toolkit/releases/latest)
-
-#### Project Templates & Scaffolding
+### Open Source Projects
 
 | Project | What it is |
 | --- | --- |
 | [cwa-stack](https://github.com/whyfail/cwa-stack) | **The whole-stack engine (npm: cwa-stack)**: one command composes the five templates (React/Vue/Next.js/Nuxt × Spring Boot) into a single-repo, contract-driven full-stack project with real login and end-to-end verification. |
+| [AI-Toolkit](https://github.com/whyfail/AI-Toolkit) | A desktop manager for AI coding tools: use WorkBuddy models with platform credits in third-party tools through a local proxy, alongside MCP configuration and Skills sync. |
 | [vite_react_init](https://github.com/whyfail/vite_react_init) | An AI-first enterprise React template: Vite 8 + React 19 + TypeScript, with app/features/shared layering, shadcn/ui + Tailwind v4, route guards and API wrappers. |
 | [vite_vue3_init](https://github.com/whyfail/vite_vue3_init) | An AI-first enterprise Vue 3 template: Vite 8 + Vue 3 + TypeScript, with app/features/shared layering, shadcn-vue + Tailwind v4, and oxc (oxlint/oxfmt) in place of ESLint. |
 | [vite_react_ssr_init](https://github.com/whyfail/vite_react_ssr_init) | An AI-first enterprise React SSR template: Next.js App Router + React 19 + Tailwind v4, with HttpOnly Cookie sessions and server-side auth forwarding. |
